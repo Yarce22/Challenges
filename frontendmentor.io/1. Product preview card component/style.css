@@ -79,6 +79,12 @@ html {
     border-radius: 1.2rem;
     color:white;
     background-color: rgb(43, 142, 83);
+    cursor: pointer;
+
+}
+
+.addToCart:hover {
+    background-color: rgb(33, 105, 62);
 }
 
 .addToCart img {
